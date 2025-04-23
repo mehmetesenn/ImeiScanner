@@ -16,7 +16,6 @@ Uygulamanın kurulum dosyasını aşağıdaki bağlantıdan indirebilirsiniz:
 
 🔗 **[Kurulum dosyasını indir](https://drive.google.com/drive/folders/1RN2sZIMmMRpMFaEPxHV6JAF-GrbVQmsz?usp=sharing)**
 
-> **Not:** Bu bağlantıyı kendi Drive linkinle güncellemeyi unutma.
 
 ## Önemli Uyarı ⚠️
 
