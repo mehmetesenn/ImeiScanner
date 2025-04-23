@@ -37,11 +37,11 @@ Bu dizinlerde yazma izinleri kısıtlı olduğu için program düzgün çalışm
 
 ### Başlangıç Ekranı:
 
-![IMEI Sorgulama Aracı Başlangıç Ekranı](1.png)
+![IMEI Sorgulama Aracı Başlangıç Ekranı](images/1.png)
 
 ### Sorgulama Esnasında:
 
-![IMEI Sorgulama Aracı Sorgulama Ekranı](2.png)
+![IMEI Sorgulama Aracı Sorgulama Ekranı](images/2.png)
 
 ---
 
